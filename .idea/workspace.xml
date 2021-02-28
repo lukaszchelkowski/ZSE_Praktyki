@@ -27,13 +27,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.lekcja_statements">
+  <component name="RunManager" selected="Application.Zadania_26_02">
     <configuration name="Zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="First_week.basics.Zadania" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="First_week.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadania_26_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First_week.Statements.Zadania_26_02" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="First_week.Statements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadania_26_02" />
         <item itemvalue="Application.lekcja_statements" />
         <item itemvalue="Application.Zadania" />
       </list>
