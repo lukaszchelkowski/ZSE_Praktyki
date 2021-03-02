@@ -40,7 +40,7 @@ public class lekcja_arrays {
 
         double rand_double1 = rand.nextDouble();
         System.out.println("Wartość rand_dounle1: " + rand_double1);
-        
+
 
 
 
