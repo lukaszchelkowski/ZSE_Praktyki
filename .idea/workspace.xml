@@ -27,13 +27,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.zad_dom_petle">
-    <configuration name="Zadania_26_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="First_week.Statements.Zadania_26_02" />
+  <component name="RunManager" selected="Application.Piec">
+    <configuration name="Piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.methods_and_objects.Piec" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="First_week.Statements.*" />
+          <option name="PATTERN" value="second_week.methods_and_objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja_statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="First_week.Statements.lekcja_statements" />
+    <configuration name="metody_lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.methods_and_objects.metody_lekcja" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="First_week.Statements.*" />
+          <option name="PATTERN" value="second_week.methods_and_objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Piec" />
+        <item itemvalue="Application.metody_lekcja" />
         <item itemvalue="Application.zad_dom_petle" />
         <item itemvalue="Application.lekcja_arrays" />
         <item itemvalue="Application.zadania_petle" />
-        <item itemvalue="Application.Zadania_26_02" />
-        <item itemvalue="Application.lekcja_statements" />
       </list>
     </recent_temporary>
   </component>
